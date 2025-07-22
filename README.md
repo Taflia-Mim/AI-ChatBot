@@ -14,7 +14,7 @@ A simple, browser-based AI ChatBot built using **HTML**, **CSS**, and **JavaScri
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **HTML5** – Structure and markup
 - **CSS3** – Styling and layout
