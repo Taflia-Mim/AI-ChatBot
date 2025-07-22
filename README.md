@@ -42,9 +42,13 @@ AI-ChatBot/
    open index.html   # macOS
 
 **Future Improvements**
+
 Add natural language understanding with OpenAI or Gemini API
+
 Mobile-first design improvements
-Store past conversations using browser storage
+
+tore past conversations using browser storage
+
 Multi-language support  
 
 **Example Questions to Try**
