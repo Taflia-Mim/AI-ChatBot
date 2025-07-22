@@ -55,7 +55,10 @@ Anything else! The bot will respond accordingly.
 
 **Author**
 Taflia Akter Mim
+
 Dept. of CSE
+
 Shanto-Mariam University of Creative Technology
+
 Feel free to reach out for suggestions or collaborations!
 
