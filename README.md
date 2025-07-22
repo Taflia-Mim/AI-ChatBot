@@ -31,7 +31,7 @@ AI-ChatBot/
 
 ---
 
-## ⚙️ How to Run the Project
+## How to Run the Project
 
 1. **Clone the repository:**
    git clone https://github.com/Taflia-Mim/AI-ChatBot.git
