@@ -32,13 +32,13 @@ A simple, browser-based AI ChatBot built using **HTML**, **CSS**, and **JavaScri
 
 AI-ChatBot/
 
-├── index.html # Main HTML file
+index.html # Main HTML file
 
-├── style.css # Styling for the chatbot interface
+style.css # Styling for the chatbot interface
 
-├── script.js # JavaScript chatbot logic
+script.js # JavaScript chatbot logic
 
-└── README.md # Project documentation
+README.md # Project documentation
 
 ---
 
