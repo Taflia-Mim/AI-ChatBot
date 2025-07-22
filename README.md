@@ -7,9 +7,13 @@ A simple, browser-based AI ChatBot built using **HTML**, **CSS**, and **JavaScri
 ##  Features
 
 - Responsive chat interface
+
 - Simple AI logic using JavaScript
+
 - Static keyword-based conversation
+
 - Easy to customize and extend
+
 - No backend or database required
 
 ---
@@ -17,16 +21,23 @@ A simple, browser-based AI ChatBot built using **HTML**, **CSS**, and **JavaScri
 ## Technologies Used
 
 - **HTML5** – Structure and markup
+
 - **CSS3** – Styling and layout
+
 - **Vanilla JavaScript** – Interaction and logic
 
 ---
 
 ## Project Structure
+
 AI-ChatBot/
+
 ├── index.html # Main HTML file
+
 ├── style.css # Styling for the chatbot interface
+
 ├── script.js # JavaScript chatbot logic
+
 └── README.md # Project documentation
 
 ---
@@ -34,11 +45,17 @@ AI-ChatBot/
 ## How to Run the Project
 
 1. **Clone the repository:**
+
    git clone https://github.com/Taflia-Mim/AI-ChatBot.git
-2. **Navigate to the project folder:**
-   cd AI-ChatBot
-3. **Open index.html in your browser:**
+
+3. **Navigate to the project folder:**
+
+    cd AI-ChatBot
+
+4. **Open index.html in your browser:**
+
    start index.html  # Windows
+
    open index.html   # macOS
 
 **Future Improvements**
@@ -52,12 +69,17 @@ tore past conversations using browser storage
 Multi-language support  
 
 **Example Questions to Try**
+
 “Hello”
+
 “What is your name?”
+
 “How are you?”
+
 Anything else! The bot will respond accordingly.
 
 **Author**
+
 Taflia Akter Mim
 
 Dept. of CSE
